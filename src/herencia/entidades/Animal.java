@@ -13,6 +13,9 @@ public class Animal {
     protected String alimento;
     protected int edad;
     protected String raza;
+    private String prubagib;
+    private String prueva2git;
+    
 
     public Animal() {
     }
